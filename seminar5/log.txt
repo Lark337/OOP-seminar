@@ -1,0 +1,37 @@
+апр. 06, 2023 5:40:34 PM seminar5.log.log save
+INFO: Просмотр списка контакт
+апр. 06, 2023 5:40:35 PM seminar5.log.log save
+INFO: Просмотр списка контакт
+апр. 06, 2023 5:40:36 PM seminar5.log.log save
+INFO: Просмотр списка контакт
+апр. 06, 2023 5:41:03 PM seminar5.log.log save
+INFO: Действие:Создание контакта
+�������������: 44
+���: HHHHHHHHHHHHHHHHHHHHHH,
+�������: KKKKKKKKKKKK,
+�������: 8888888888888
+апр. 06, 2023 5:41:06 PM seminar5.log.log save
+INFO: Просмотр списка контакт
+апр. 06, 2023 5:41:18 PM seminar5.log.log save
+INFO: Действие:Поиск контакта:
+�������������: 44
+���: HHHHHHHHHHHHHHHHHHHHHH,
+�������: KKKKKKKKKKKK,
+�������: 8888888888888
+апр. 06, 2023 5:41:35 PM seminar5.log.log save
+INFO: Действие:Поиск контакта:
+�������������: 44
+���: HHHHHHHHHHHHHHHHHHHHHH,
+�������: KKKKKKKKKKKK,
+�������: 8888888888888
+апр. 06, 2023 5:41:35 PM seminar5.log.log save
+INFO: Действие:Обновление пользователя
+�������������: 44
+���: HHHHHHHHHHHHHHHHHHHHHH,
+�������: KKKKKKKKKKKK,
+�������: 8888888888888
+ на 
+�������������: null
+���: JJJJJJJJJJJJJJJJJJJJ,
+�������: KKKKKKKKKKKKKKKKKKK,
+�������: 999999999999999
