@@ -1,0 +1,31 @@
+апр. 13, 2023 4:48:06 PM seminar7.log.log save
+INFO: Действие:Создание записки
+Id: 8; Title: JGIORJGEGJOIER; Text: GREOJGEROIJGIOERGJREI
+апр. 13, 2023 4:48:17 PM seminar7.log.log save
+INFO: Действие:Создание записки
+Id: 9; Title: JGOGIFJDGFDLGFD; Text: FDSKFHDSKJFHDSKFHKSDFH SDASDSADJKHK JAA HDSKJ ADHKAS HDJASKD HASK AS DAKHKJ
+апр. 13, 2023 4:48:22 PM seminar7.log.log save
+INFO: Просмотр списка контакт
+апр. 13, 2023 4:48:28 PM seminar7.log.log save
+INFO: Действие:Поиск записки:
+Id: 9; Title: JGOGIFJDGFDLGFD; Text: FDSKFHDSKJFHDSKFHKSDFH SDASDSADJKHK JAA HDSKJ ADHKAS HDJASKD HASK AS DAKHKJ
+апр. 13, 2023 4:48:49 PM seminar7.log.log save
+INFO: Действие:Поиск записки:
+Id: 8; Title: JGIORJGEGJOIER; Text: GREOJGEROIJGIOERGJREI
+апр. 13, 2023 4:48:49 PM seminar7.log.log save
+INFO: Действие:Обновление записки
+Id: 8; Title: JGIORJGEGJOIER; Text: GREOJGEROIJGIOERGJREI
+на 
+Id: null; Title: TTTTT; Text: FDSFDSFDSSGSDG
+апр. 13, 2023 4:48:54 PM seminar7.log.log save
+INFO: Просмотр списка контакт
+апр. 13, 2023 4:49:10 PM seminar7.log.log save
+INFO: Действие:Поиск записки:
+Id: 8; Title: TTTTT; Text: FDSFDSFDSSGSDG
+апр. 13, 2023 4:49:15 PM seminar7.log.log save
+INFO: Действие:Удаление записки:
+Id: 8; Title: TTTTT; Text: FDSFDSFDSSGSDG
+апр. 13, 2023 4:49:19 PM seminar7.log.log save
+INFO: Поиск контакта, контакт под id 8 не найден
+апр. 13, 2023 4:49:26 PM seminar7.log.log save
+INFO: Просмотр списка контакт
